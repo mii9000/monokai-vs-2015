@@ -88,6 +88,7 @@
                             <Item Name="enum name" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
                             <Item Name="delegate name" Foreground="0x002097FD" Background="0x02000000" BoldFont="No"/>
                             <Item Name="class name" Foreground="0x002097FD" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="string - verbatim" Foreground="0x0074DBE6" Background="0x003E4849" BoldFont="No"/>
                             <Item Name="MarkerFormatDefinition/HighlightedDefinition" Foreground="0x02000000" Background="0x003E4849" BoldFont="No"/>
                             <Item Name="MarkerFormatDefinition/HighlightedWrittenReference" Foreground="0x02000000" Background="0x003E4849" BoldFont="No"/>
                             <Item Name="CSS String Value" Foreground="0x0074DBE6" Background="0x003E4849" BoldFont="No"/>
