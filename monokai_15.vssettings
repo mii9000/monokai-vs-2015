@@ -77,6 +77,8 @@
                             <Item Name="HTML Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
                             <Item Name="HTML Attribute Value" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="No"/>
                             <Item Name="HTML Attribute" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="RazorTagHelperElement" Foreground="0x007226F9" Background="0x01000001" BoldFont="Yes"/>
+                            <Item Name="RazorTagHelperAttribute" Foreground="0x002EE2A6" Background="0x01000001" BoldFont="Yes"/>
                             <Item Name="brace matching" Foreground="0x01000000" Background="0x008A908F" BoldFont="No"/>
                             <Item Name="xml doc comment - text" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
                             <Item Name="xml doc comment - processing instruction" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
