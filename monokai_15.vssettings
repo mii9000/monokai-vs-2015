@@ -38,7 +38,7 @@
                     </Category>
                     <Category GUID="{FF349800-EA43-46C1-8C98-878E78F46501}" FontIsDefault="Yes">
                         <Items>
-                            <Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x002EE2A6" BoldFont="No"/>
+                            <Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x008A908F" BoldFont="No"/>
                         </Items>
                     </Category>
                     <Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontIsDefault="Yes">
@@ -77,7 +77,7 @@
                             <Item Name="HTML Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
                             <Item Name="HTML Attribute Value" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="No"/>
                             <Item Name="HTML Attribute" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
-                            <Item Name="brace matching" Foreground="0x01000000" Background="0x003E4849" BoldFont="No"/>
+                            <Item Name="brace matching" Foreground="0x01000000" Background="0x008A908F" BoldFont="No"/>
                             <Item Name="xml doc comment - text" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
                             <Item Name="xml doc comment - processing instruction" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
                             <Item Name="xml doc comment - name" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
