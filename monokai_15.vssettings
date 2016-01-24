@@ -92,9 +92,10 @@
                             <Item Name="MarkerFormatDefinition/HighlightedDefinition" Foreground="0x02000000" Background="0x003E4849" BoldFont="No"/>
                             <Item Name="MarkerFormatDefinition/HighlightedWrittenReference" Foreground="0x02000000" Background="0x003E4849" BoldFont="No"/>
                             <Item Name="CSS String Value" Foreground="0x0074DBE6" Background="0x003E4849" BoldFont="No"/>
-                            <Item Name="CSS Property Value" Foreground="0x00F2F8F8" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="CSS Property Value" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
                             <Item Name="CSS Property Name" Foreground="0x00EFD966" Background="0x02000000" BoldFont="No"/>
-                            <Item Name="CSS Selector" Foreground="0x007226F9" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="CSS Selector" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="CSS Keyword" Foreground="0x007226F9" Background="0x02000000" BoldFont="No"/>
                             <Item Name="CSS Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
                         </Items>
                     </Category>
