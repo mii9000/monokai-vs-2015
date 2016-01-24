@@ -61,7 +61,7 @@
                             <Item Name="outlining.collapsehintadornment" Foreground="0x003E4849" Background="0x003E4849" BoldFont="No"/>
                             <Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x003E4849" BoldFont="No"/>
                             <Item Name="Selected Text" Foreground="0x02000000" Background="0x005E7175" BoldFont="No"/>
-                            <Item Name="Line Number" Foreground="0x00EFD966" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="Line Number" Foreground="0x008A908F" Background="0x01000001" BoldFont="No"/>
                             <Item Name="Number" Foreground="0x00FF81AE" Background="0x02000000" BoldFont="No"/>
                             <Item Name="String" Foreground="0x0074DBE6" Background="0x003E4849" BoldFont="No"/>
                             <Item Name="Operator" Foreground="0x007226F9" Background="0x02000000" BoldFont="No"/>
