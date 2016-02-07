@@ -99,6 +99,12 @@
                             <Item Name="CSS Selector" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
                             <Item Name="CSS Keyword" Foreground="0x007226F9" Background="0x02000000" BoldFont="No"/>
                             <Item Name="CSS Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="Python operator" Foreground="0x007226F9" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="Python builtin" Foreground="0x00FF81AE" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="Python class" Foreground="0x002EE2A6" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="Python function" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="Python module" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="Python parameter" Foreground="0x002097FD" Background="0x02000000" BoldFont="No"/>
                         </Items>
                     </Category>
                     <Category GUID="{FA937F7B-C0D2-46B8-9F10-A7A92642B384}" FontIsDefault="Yes">
